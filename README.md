@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-ShashwatSingh--Stud-181717?style=for-the-badge&logo=github)](https://github.com/ShashwatSingh-Stud)
+[![GitHub](https://img.shields.io/badge/GitHub-ShashwatSingh--Stud-181717?style=for-the-badge&logo=github)](https://github.com/ishitaa-2008)
 
 ---
 
